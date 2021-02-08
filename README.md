@@ -32,8 +32,8 @@ I’m a Machine Learning Engineer from Bangkok, Thailand. I always learn new tec
 <br/>
 
 #### Hobbies
-* Listening to podcasts
-* Playing some games
-* Reading books
-* Investing
-* Watching Netflix
+- Listening to podcasts 🎶
+- Playing games 👾
+- Reading books 📚
+- Investing 💰
+- Watching Netflix 👀
