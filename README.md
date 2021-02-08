@@ -1,6 +1,6 @@
 ### Hi, I'm Taechawat Konkaew 👋
 
-<img align="right" src="" alt="taechawat's memoji" />
+<img align="right" src="https://github.com/luangtatipsy/luangtatipsy/blob/master/memoji.png" alt="taechawat's memoji" width="150px"/>
 
 I’m a Machine Learning Engineer from Bangkok, Thailand. I always learn new technologies and keep developing technical skills. Furthermore, I also read many books and articles for developing mindset and soft skills.
 
