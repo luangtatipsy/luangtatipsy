@@ -8,8 +8,8 @@ I’m a Machine Learning Engineer from Bangkok, Thailand. I always learn new tec
   <img src="https://img.icons8.com/color/32/000000/internet--v2.png" alt="taechawat's personal site" />
 </a>
 &nbsp;
-<a href="taechawat.k@gmail.com">
-  <img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png" alt="taechawat's email" />
+<a href="https://facebook.com/luangtatipsyy">
+  <img src="https://img.icons8.com/color/32/000000/facebook.png" alt="taechawat's facebook" />
 </a>
 &nbsp;
 <a href="https://www.twitter.com/taechawatk/">
