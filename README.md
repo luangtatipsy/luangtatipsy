@@ -4,6 +4,10 @@
 
 I’m a Machine Learning Engineer from Bangkok, Thailand. I always learn new technologies and keep developing technical skills. Furthermore, I also read many books and articles for developing mindset and soft skills.
 
+<a href="https://luangtatipsy.github.io">
+  <img src="https://img.icons8.com/color/32/000000/internet--v2.png" alt="taechawat's personal site" />
+</a>
+&nbsp;
 <a href="taechawat.k@gmail.com">
   <img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png" alt="taechawat's email" />
 </a>
@@ -19,7 +23,6 @@ I’m a Machine Learning Engineer from Bangkok, Thailand. I always learn new tec
 <a href="https://medium.com/@luangtatipsy">
   <img src="https://img.icons8.com/color/32/000000/medium-monogram.png" alt="taechawat's medium"/>
 </a>
-
 <br/>
 <br/>
 
